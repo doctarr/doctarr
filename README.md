@@ -4,7 +4,7 @@
 This is the github account of Alex Tarr. I am a lecturer in Digital Cultures at Newcastle University in [Media, Culture and Heritage](https://www.ncl.ac.uk/sacs/mch/) in the School of Arts and Cultures. 
 
 ### What I Do
-*coming soon*
+I teach this module.
 
 ## About This Account
 I mostly use this account for teaching purposes, though increasingly will add my research here as well. 
