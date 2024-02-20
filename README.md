@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hello World
 
+## About Me
+This is the github account of Alex Tarr. I am a lecturer in Digital Cultures at Newcastle University in [Media, Culture and Heritage](https://www.ncl.ac.uk/sacs/mch/) in the School of Arts and Cultures. 
+
+### What I Do
+*coming soon*
+
+## About This Account
+I mostly use this account for teaching purposes, though increasingly will add my research here as well. 
+This is a polite way of saying ** warning: many of the repos here are partial, works in progress or meant to accompany a lecture/workshop elsewhere **. Anyone is welcome to explore or clone or re-use as they see fit, but they all come with that disclaimer.
 <!--
 **doctarr/doctarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+      
