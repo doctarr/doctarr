@@ -9,7 +9,10 @@ This is the github account of Alex Tarr. I am a lecturer in Digital Cultures at 
 ## About This Account
 I mostly use this account for teaching purposes, though increasingly will add my research here as well. 
 This is a polite way of saying ** warning: many of the repos here are partial, works in progress or meant to accompany a lecture/workshop elsewhere **. Anyone is welcome to explore or clone or re-use as they see fit, but they all come with that disclaimer.
+
 <!--
+this area is technically a JAVASCRIPT Comment, it is a clever way to include a note to yourself, or others, about the contents of this file, without it appearing in the main body of text.
+Anything between the two braces < and > will only appear in the editor. (Or, more accurately, will only be visible if someone were to inspect your code).
 **doctarr/doctarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
